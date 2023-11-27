@@ -1226,6 +1226,5 @@
       "name": "Validate Template group"
     }
   ],
-  "fromTemplateId": "Community-Workbooks/SapMonitor2.0/Alerts/Create Alert rule (step 1 of 2)",
   "$schema": "https://github.com/Microsoft/Application-Insights-Workbooks/blob/master/schema/workbook.json"
 }
